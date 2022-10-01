@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdifatah Yasin Yusuf</h1>
-<h3 align="center">Front-end Developer my role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories. I also monitor and process pull requests for production deployments. Technologies used: JavaScript and React.</h3>
+<h1 align="center">Hi 👋, I'm Abdifatah</h1>
+<h3 align="center"> 
+Softweare Engineer
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="alt text" width="200"/>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdifatahyasin1&label=Profile%20views&color=0e75b6&style=flat" alt="abdifatahyasin1" /> </p>
 
