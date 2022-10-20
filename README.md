@@ -13,7 +13,7 @@ Softweare Engineer
 
 - 👯 I’m looking to collaborate on **Microverse team**
 
-- 🤝 I’m looking for help with **Customer Relationship Management SASS **
+- 🤝 I’m looking for help with **Customer Relationship Management SASS**
 
 - 💬 Ask me about **Html, CSS and JavaScript**
 
