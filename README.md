@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdifatah</h1>
-<h3 align="center"> 
+<div> 
+<h3 > 
+
 Softweare Engineer
   <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="alt text" width="200"/>
+<img src="https://user-images.githubusercontent.com/41564330/208712363-6aa93db4-4240-48a6-bd86-c9e5a7602ec8.png" />
+</div>
+
+  <br>
+  <img src="https://user-images.githubusercontent.com/41564330/208712068-12abe277-c096-427f-a1e3-b680de5f5c00.svg" width="50%" align="center"/>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdifatahyasin1&label=Profile%20views&color=0e75b6&style=flat" alt="abdifatahyasin1" /> </p>
