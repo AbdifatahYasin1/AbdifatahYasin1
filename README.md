@@ -36,3 +36,12 @@
 <p align="left">
 <a href="https://twitter.com/cabdifataaxyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cabdifataaxyy" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/" height="30" width="40" /></a>
+  
+  <h3 align="left">Credentials:</h3>
+
+
+
+
+  
+  
+ <img src="https://user-images.githubusercontent.com/41564330/215272443-654d97a2-2546-405d-bb1b-abcaa590d5ef.png"  />
