@@ -2,8 +2,9 @@
 <div> 
   <h2 align="center"> Software Developer 👩‍💻 </h2>
 <h3 align="center" > 
+  
 
-  <img src="https://www.svgrepo.com/show/294145/code.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="400" />
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdifatahyasin1&label=Profile%20views&color=0e75b6&style=flat" alt="abdifatahyasin1" /> </p>
