@@ -44,4 +44,4 @@
 
   
   
- <img src="https://user-images.githubusercontent.com/41564330/215272443-654d97a2-2546-405d-bb1b-abcaa590d5ef.png"  />
+ <img src="https://user-images.githubusercontent.com/41564330/215272443-654d97a2-2546-405d-bb1b-abcaa590d5ef.png" width="100" />
