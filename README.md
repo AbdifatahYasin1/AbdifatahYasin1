@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Abdifatah</h1>
-<div> 
-  <h2 align="center"> Software Developer 👩‍💻 </h2>
-<h3 align="center" > 
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abdifatah</h1>
+  <h4 align="center">A person who is passionate about programming and is currently pursuing graduation from Microverse as a full-stack developer.</h4>
+</div>
   
 
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  />
+ <div align="center">
+  <a href="https://cluab.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdifatahyasin1&label=Profile%20views&color=0e75b6&style=flat" alt="abdifatahyasin1" /> </p>
