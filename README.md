@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abdifatah</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abdifatah Yassen </h1>
   <h4 align="center">A person who is passionate about programming and is currently pursuing graduation from Microverse as a full-stack developer.</h4>
 </div>
   
@@ -26,6 +26,7 @@
 - 📫 How to reach me **Shiineali101@gmail.com**
 
 - ⚡ Fun fact **I think I am funy**
+- 📞 +252633141196
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
