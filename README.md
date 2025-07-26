@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="Waving Hand">, I am Abdifatah Yassen</h1>
+  <h1>Hi <img width="30" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="Waving Hand">,  I'm  Abdifatah Yassen</h1>
   <h4>A passionate programmer currently pursuing graduation from Microverse as a full-stack developer.</h4>
 </div>
 
