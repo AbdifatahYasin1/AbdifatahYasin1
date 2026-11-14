@@ -1,66 +1,140 @@
 <div align="center">
-  <h1> <img width="30" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="Waving Hand">Hi, I'm  Abdifatah Yassen</h1>
-  <h4>A passionate programmer currently pursuing graduation from Microverse as a full-stack developer.</h4>
+
+# Abdifatah Yasin Yusuf
+
+<a href="https://github.com/AbdifatahYasin1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineering+Lecturer;Full-Stack+Developer;IT+Specialist;Exploring+Data+Science+%26+Machine+Learning" alt="Software Engineering Lecturer | Full-Stack Developer | IT Specialist" />
+</a>
+
+📍 Hargeisa, Somaliland &nbsp;·&nbsp; 🎓 Lecturer at **Abaarso Tech University**
+
+*Building software, teaching future engineers, and exploring Data Science and Machine Learning.*
+
+<a href="mailto:shiineali101@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://x.com/CabdifataaxYy"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineering Lecturer** at Abaarso Tech University with a **BSc in Software Engineering**, a background in **IT support and systems administration**, and hands-on experience building web applications across the stack.
+
+My work sits where teaching and engineering meet. I teach students how software is designed, built and maintained, I supervise their projects, and I keep building software myself so that what I teach stays grounded in real practice. Lately I've been spending more time on **Data Science and Machine Learning** with Python.
+
+- 🏫 Teaching software engineering, programming, databases and mobile development
+- 🧭 Mentoring aspiring developers and supervising student software projects
+- 🛠️ Building full-stack web applications and teaching resources
+- 📊 Exploring data analysis and machine learning with Python
+
+---
+
+## 🧰 Technical Skills
+
+Technologies I work with or am actively exploring:
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,cs,cpp,php,ruby&theme=dark" alt="Python, JavaScript, C#, C++, PHP, Ruby" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular&theme=dark" alt="HTML5, CSS3, Bootstrap, React, Angular" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=django,dotnet,rails,nodejs&theme=dark" alt="Django, ASP.NET, Ruby on Rails, Node.js" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
+
+**Tools, Platforms & Data**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Git, GitHub, Linux" />
+<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/System%20Administration-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="System Administration" />
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineering Lecturer · Abaarso Tech University
+*Hargeisa, Somaliland*
+
+- Teach Software Engineering and Computer Science courses
+- Teach programming and software development
+- Teach data structures and algorithms
+- Teach database development
+- Teach mobile application development
+- Supervise student software projects from idea to delivery
+- Mentor students who want to become software developers
+
+### IT Support & Systems Administration
+
+- Background in end-user IT support, system setup and maintenance, and systems administration
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbdifatahYasin1/salary-prediction-ml-python">salary-prediction-ml-python</a></h3>
+      <p>A three-step data pipeline that generates a realistic employee dataset, analyses salary trends and visualises the results.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbdifatahYasin1/SQL-database-">SQL-database-</a></h3>
+      <p>Structured SQL learning resource for students aspiring to master database skills: lecture slides plus SQL scripts for schemas, queries, joins, views and functions.</p>
+      <p><img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbdifatahYasin1/Flutter-Mobile-Application">Flutter-Mobile-Application</a></h3>
+      <p>Course materials and Dart examples for my mobile application development teaching, from Dart fundamentals to Flutter widgets.</p>
+      <p><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbdifatahYasin1/Metric-Wep-App">Metric-Wep-App</a></h3>
+      <p>A single-page web app that fetches country data from a public API and presents country statistics to users.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" /></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
-  <a href="https://cluab.github.io/1999AZZAR/">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdifatahYasin1&theme=github_dark" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdifatahYasin1&theme=github_dark" alt="Most used languages" height="165" />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdifatahyasin1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 🔥 Contribution Streak
 
-### About Me
-- 🔭 I’m currently working on **My Portfolio**
-- 🌱 I’m learning **React and Ruby on Rails**
-- 👯 I’m looking to collaborate with the **Microverse team**
-- 🤝 I’m seeking help with **Customer Relationship Management SaaS**
-- 💬 Ask me about **HTML, CSS, and JavaScript**
-- 📫 Reach me at: **Shiineali101@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
-- 📞 Phone: +252633141196
-
-### Connect with Me
-<p align="left">
-  <a href="https://twitter.com/cabdifataaxyy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-### Languages and Tools
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-</p>
-
-### My Credentials
-<div>
-  <img src="https://user-images.githubusercontent.com/41564330/215272443-654d97a2-2546-405d-bb1b-abcaa590d5ef.png" width="100" alt="Credential 1" />
-  <img src="https://user-images.githubusercontent.com/41564330/221399555-d5255600-83f0-406a-9289-d002f887f45a.png" width="100" alt="Credential 2"/>
-  <img src="https://user-images.githubusercontent.com/41564330/221399378-f097b36e-dee7-400c-af53-e913a1fa4728.png" width="100" alt="Credential 3"/>
-  <img src="https://user-images.githubusercontent.com/41564330/234513658-2380dcb5-9bf1-4c48-bf61-9ed0fd88be61.jpeg" width="100" alt="Credential 4"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdifatahYasin1&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdifatahyasin1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+---
+
+## 🤝 Connect With Me
+
+I'm open to collaborating on teaching resources, student-focused software and full-stack projects.
+
+<div align="center">
+
+<a href="mailto:shiineali101@gmail.com"><img src="https://img.shields.io/badge/Email-shiineali101%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/"><img src="https://img.shields.io/badge/LinkedIn-Abdifatah%20Yasin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://x.com/CabdifataaxYy"><img src="https://img.shields.io/badge/X-%40CabdifataaxYy-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+
+</div>
